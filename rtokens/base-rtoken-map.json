@@ -1,1 +1,16 @@
-{}
+{
+  "0x7849953a73E8932Dd35424d58767FbD21eE58C2F": {
+    "address": "0x7849953a73E8932Dd35424d58767FbD21eE58C2F",
+    "name": "Base Blue Buck",
+    "symbol": "BBB",
+    "logo": "BBB.svg",
+    "decimals": 18,
+    "about": "A very diversely backed token which aims to be the primary unit of the Base system.",
+    "website": "https://register.app/#/overview?token=0x7849953a73E8932Dd35424d58767FbD21eE58C2F&chainId=8453",
+    "support": {
+      "url": "https://twitter.com/BaseBlueBuck"
+    },
+    "social": {
+      "twitter": "https://twitter.com/BaseBlueBuck"
+    }
+}
